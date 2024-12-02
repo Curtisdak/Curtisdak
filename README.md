@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **nest js**
 
-- 💬 Ask me about **react, vanilla javascript , mysql, html, css**
+- 💬 Ask me about **react, vanilla javascript , mysql, html, css, next js,mangodb,**
 
 - 📫 How to reach me **curtis.dakouri@gmail.com**
 
